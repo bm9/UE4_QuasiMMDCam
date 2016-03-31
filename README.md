@@ -3,7 +3,7 @@
 UE4 Camera-Actor for MMD Camara.  
 "B_QuasiMMDCam"BP.
 
-※本ブランチは**UE4.9専用PJ**です。  
+※本ブランチは**UE4.10専用PJ**です。  
 
 本BPはUE4カメラでMMDのカメラワークを擬似的に再現するためのBPアセットです。  
 PJ内部はアセットのみのため、なにも入っていませんので注意。  
